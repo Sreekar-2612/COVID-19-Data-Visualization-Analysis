@@ -58,9 +58,9 @@ Data source: [Kaggle COVID-19 Dataset by Bolkonsky](https://www.kaggle.com/datas
 - Total countries tracked: `X`
 - Country with highest total cases: `COUNTRY_NAME`
 - Country with highest total deaths: `COUNTRY_NAME`
-- Country with highest total vaccinations: `COUNTRY_NAME` (if available)
+- Country with highest total vaccinations: `COUNTRY_NAME` 
 
-*(These values are dynamically calculated in the script.)*
+
 
 ---
 
